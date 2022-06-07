@@ -1,0 +1,14 @@
+.container
+{
+ 
+    display:block;
+    
+    
+}
+.div1{
+
+background-color: #fbca1b;
+display:flex;
+justify-content:space-between;
+background-color: #94bfcd
+}

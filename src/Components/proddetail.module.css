@@ -1,0 +1,10 @@
+.container{
+ 
+    display:flex;
+    justify-content: space-around;
+}
+.leftdiv{
+    padding-top:10%;
+
+    font-size: xx-large;
+}

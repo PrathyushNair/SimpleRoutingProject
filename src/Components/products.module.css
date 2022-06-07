@@ -1,0 +1,15 @@
+.container{
+    
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:50%;
+    margin:auto;
+}
+.table{
+    width:100%;
+    height:100%;
+    background-color:gold;
+    gap:10px;
+}
